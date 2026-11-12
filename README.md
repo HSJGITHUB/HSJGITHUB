@@ -2,20 +2,24 @@
 
 Growth Project Lead at [Orbiters](https://orbiters.co.kr). I build growth systems where advertising, data, and AI automation run as one loop.
 
-Orbiters launches Korean brands in the US and scales them with an AI-driven growth engine. I lead a small growth team there, working across Shopify, Amazon, and TikTok Shop. My work covers the full stack, from deciding where ad dollars go to building the pipelines that show whether they paid off.
+Orbiters launches Korean brands in the US and scales them with an AI-driven growth engine. I lead growth for Onzenna, our US direct-to-consumer store. I manage two direct reports and work day to day with writers, designers, engineers, and outside vendors.
 
-### What I work on
+### What I lead
 
-- **Performance marketing:** Meta, Amazon, and TikTok ad programs, scaled through rule-based budget gates that raise or cut spend on their own
-- **Measurement:** direct-API data pipelines (Amazon SP-API and Ads, Shopify, Meta, Google Ads) feeding weekly KPI reporting for leadership
-- **Retention:** email A/B testing, loyalty program design, creator partnership tracking
-- **AI operations:** multi-agent workflows (Claude Code, Codex) that run routine ops behind human approval gates
+- **Growth strategy:** wrote the store's growth plan, with owned-channel revenue as the north star, and sequenced the roadmap across email, measurement, site, and app
+- **Performance marketing:** designed a rule-based budget gate that scales, holds, or cuts Meta ads within an approved daily budget, and run creator partnership ads end to end, from upload to usage-rights expiry
+- **Retention and loyalty:** redesigned the loyalty program from scratch (tiers, welcome offer, legacy points migration, legal review), rebuilt the welcome email flow, and run ongoing email A/B tests
+- **Website:** led the Shopify homepage relaunch and product page renewal, and shaped the positioning of the company website
+- **Data and measurement:** built direct-API pipelines (Amazon SP-API and Ads, Shopify, Meta, Google Ads), a central data warehouse, and KPI definitions, and worked with an outside analytics vendor on tracking repair
+- **Amazon operations:** rebuilt the Amazon P&L from fee-level data, and am now building inventory and purchase-order forecasting
+- **AI operations:** designed the growth team's AI workflows, with multi-agent execution (Claude Code, Codex), cross-model verification, and human approval gates, and rolled out Slack-based AI workflows to the team
+- **Hiring:** set up hiring workflows (job descriptions, interview rubric, applicant tracking) and run first-round interviews
 
-Currently exploring AI agents for inventory planning and for routing team requests to the right automation.
+I build most of this automation by orchestrating AI coding agents and reviewing their output.
 
 ### Toolbox
 
-Python · SQL · BigQuery · Shopify · Klaviyo · Meta Ads · Amazon Ads · Google Ads · Claude Code · Codex
+Python · SQL · BigQuery · DuckDB · Shopify · Klaviyo · Meta Ads · Amazon Ads · Google Ads · Claude Code · Codex
 
 ### Contact
 
