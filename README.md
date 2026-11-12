@@ -1,6 +1,6 @@
 ## Hyunseok Jin
 
-Growth Project Lead. I build growth systems where paid media, data, and AI automation run as one loop.
+Growth Project Lead at [Orbiters](https://orbiters.co.kr). I build growth systems where paid media, data, and AI automation run as one loop.
 
 I lead a small growth team for e-commerce brands selling on Shopify, Amazon, and TikTok Shop. My work covers the full stack, from deciding where ad dollars go to building the pipelines that show whether they paid off.
 
