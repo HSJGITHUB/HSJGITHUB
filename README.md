@@ -2,11 +2,11 @@
 
 Growth Project Lead at [Orbiters](https://orbiters.co.kr). I build growth systems where advertising, data, and AI automation run as one loop.
 
-Orbiters launches Korean brands in the US and scales them with an AI-driven growth engine. I lead growth for Onzenna, our US direct-to-consumer store. I manage two direct reports and work day to day with writers, designers, engineers, and outside vendors.
+Orbiters launches Korean brands in the US and scales them with an AI-driven growth engine. I lead growth projects across the company, from marketing and retention to Amazon operations, data infrastructure, and the AI systems our team runs on.
 
 ### What I lead
 
-- **Growth strategy:** wrote the store's growth plan, with owned-channel revenue as the north star, and sequenced the roadmap across email, measurement, site, and app
+- **Growth strategy:** wrote the direct-to-consumer growth plan, with owned-channel revenue as the north star, and sequenced the roadmap across email, measurement, site, and app
 - **Performance marketing:** designed a rule-based budget gate that scales, holds, or cuts Meta ads within an approved daily budget, and run creator partnership ads end to end, from upload to usage-rights expiry
 - **Retention and loyalty:** redesigned the loyalty program from scratch (tiers, welcome offer, legacy points migration, legal review), rebuilt the welcome email flow, and run ongoing email A/B tests
 - **Website:** led the Shopify homepage relaunch and product page renewal, and shaped the positioning of the company website
