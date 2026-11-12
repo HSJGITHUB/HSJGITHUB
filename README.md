@@ -17,6 +17,11 @@ Orbiters launches Korean brands in the US and scales them with an AI-driven grow
 
 I build most of this automation by orchestrating AI coding agents and reviewing their output.
 
+### Open source
+
+- **[agent-watch](https://github.com/HSJGITHUB/agent-watch):** a read-only local dashboard that shows what parallel Claude Code sessions, subagents, workflows, and Codex runs are doing right now
+- **[claude-code-session-kit](https://github.com/HSJGITHUB/claude-code-session-kit):** hooks and tools that keep multi-session Claude Code work on Windows from losing context
+
 ### Toolbox
 
 Python · SQL · BigQuery · DuckDB · Shopify · Klaviyo · Meta Ads · Amazon Ads · Google Ads · Claude Code · Codex
