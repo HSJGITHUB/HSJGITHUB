@@ -21,9 +21,9 @@ I build most of this automation by orchestrating AI coding agents and reviewing 
 
 Every project I publish on this account is personal work, shared in a personal capacity. None of it is a product or official tool of my employer, and none of it is affiliated with or endorsed by my employer.
 
-- **[slack-dispatch](https://github.com/HSJGITHUB/slack-dispatch):** a resident service that routes new Slack messages to AI agent sessions with deterministic rules, a message ledger, and a human queue for messages it cannot place
-- **[agent-watch](https://github.com/HSJGITHUB/agent-watch):** a read-only local dashboard that shows what parallel Claude Code sessions, subagents, workflows, and Codex runs are doing right now
-- **[claude-code-session-kit](https://github.com/HSJGITHUB/claude-code-session-kit):** hooks and tools that keep multi-session Claude Code work on Windows from losing context
+- **[slack-dispatch](https://github.com/HSJGITHUB/slack-dispatch):** a mailroom for AI agents. Each incoming Slack message is logged once, routed by rule to the agent lane that owns that work, or queued for a human when no rule fits, so AI-assisted workflows hold up as channels and agents multiply
+- **[agent-watch](https://github.com/HSJGITHUB/agent-watch):** mission control for parallel AI coding agents. One local page shows which Claude Code sessions, subagents, workflows, and Codex runs are working, waiting on you, or stalled
+- **[claude-code-session-kit](https://github.com/HSJGITHUB/claude-code-session-kit):** session continuity for long-running Claude Code work: handoff notes carried between sessions, one-command resume for recent sessions, a folder guard that blocks writes outside allowed paths, and VS Code layout recovery after a forced restart
 
 ### Toolbox
 
