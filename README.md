@@ -19,7 +19,7 @@ I build most of this automation by orchestrating AI coding agents and reviewing 
 
 ### Open source
 
-Every project I publish on this account is personal work, shared in a personal capacity. None of it is an Orbiters product or official company tool, and none of it is affiliated with or endorsed by Orbiters.
+Every project I publish on this account is personal work, shared in a personal capacity. None of it is a product or official tool of my employer, and none of it is affiliated with or endorsed by my employer.
 
 - **[agent-watch](https://github.com/HSJGITHUB/agent-watch):** a read-only local dashboard that shows what parallel Claude Code sessions, subagents, workflows, and Codex runs are doing right now
 - **[claude-code-session-kit](https://github.com/HSJGITHUB/claude-code-session-kit):** hooks and tools that keep multi-session Claude Code work on Windows from losing context
